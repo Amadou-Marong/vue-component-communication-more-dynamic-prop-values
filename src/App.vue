@@ -22,16 +22,22 @@ export default {
     return {
       friends: [
         {
-          id: "manuel",
-          name: "Manuel Lorenz",
+          id: "modou",
+          name: "Modou Saidy",
           phone: "0123 45678 90",
-          email: "manuel@localhost.com",
+          email: "modou@localhost.com",
         },
         {
-          id: "julie",
-          name: "Julie Jones",
+          id: "saikou",
+          name: "Saikou Ceesay",
           phone: "0987 654421 21",
-          email: "julie@localhost.com",
+          email: "saikou@localhost.com",
+        },
+        {
+          id: "bakary",
+          name: "Bakary Fatty",
+          phone: "0987 654421 21",
+          email: "bakary@localhost.com",
         },
       ],
     };
